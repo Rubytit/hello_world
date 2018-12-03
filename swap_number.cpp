@@ -13,8 +13,7 @@ int main()
     a=b;
     b=temp;
 
-	// O rui é gay
-
+  // Ola joão
     cout << "\n After swaping: " << endl;
     cout << "a=" << a << ", b = " << b << endl;
     cout << "\n";
